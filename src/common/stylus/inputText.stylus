@@ -1,0 +1,9 @@
+my-input-text()
+  box-sizing: border-box
+  height: 36px
+  width: 100%
+  padding-left: 10px
+  border: 1px solid rgba(7, 17, 27, 0.1)
+  color: #A4A4A4
+  background-color: #F8F8F8
+
